@@ -1,0 +1,60 @@
+.fixed-info-container{
+	background-color:#F7F7F7;
+	border-radius: 3px;
+}
+.pagination{
+	cursor:default;
+}
+.swiper-nav i, .arrow-left i{
+	position: relative;
+	top:3px;
+}
+.swiper-nav, .arrow-left{
+	background-color: #fff;
+	position: relative;
+	top:-4px;
+}
+.swiper-nav:hover, .arrow-left:hover{
+	background-color: #292929;
+	color:#fff;
+	position: relative;
+	border-radius: 6px;
+}
+.nav-holder nav ul li ul{
+	/*opacity: 0.6;*/
+	border-radius: 2px;
+}
+.nav-holder nav ul li ul:hover{
+	/*opacity: 1;*/
+	border-radius: 2px;
+}
+.next-slide, .prev-slide{
+	background-color: #fff;
+	position: relative;
+	top:-4px;
+}
+.next-slide:hover, .prev-slide:hover{
+	background-color: #292929;
+	color:#fff;
+	position: relative;
+	border-radius: 6px;
+}
+div.about-me-text{
+	font-size: 1.8em;
+	color:#fff;
+	text-align: left;
+}
+h3.subtitle{
+	font-size: 1.9em;
+	padding:0px 0px 8px 0px;
+}
+div.signature{
+	position: relative;
+	left:-22%;
+	top:-50px;
+}
+div.col-md-6{
+	position: relative;
+	left:-50%;
+	top:-60px;
+}
